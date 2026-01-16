@@ -1,0 +1,58 @@
+index.html<!DOCTYPE html><html lang="mr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>युवा प्रगतिशील सेना</title>
+  <style>
+    body { margin:0; font-family: Arial, sans-serif; line-height:1.6; color:#222; }
+    header { background: linear-gradient(90deg,#0b5ed7,#198754); color:#fff; padding:40px 20px; text-align:center; }
+    header h1 { margin:0; font-size:36px; }
+    header p { font-size:18px; }
+    nav { background:#111; padding:10px; text-align:center; }
+    nav a { color:#fff; margin:0 12px; text-decoration:none; font-weight:bold; }
+    section { padding:40px 20px; max-width:1100px; margin:auto; }
+    h2 { color:#0b5ed7; margin-bottom:10px; }
+    .cards { display:grid; grid-template-columns: repeat(auto-fit,minmax(250px,1fr)); gap:20px; }
+    .card { border-radius:12px; box-shadow:0 4px 10px rgba(0,0,0,0.1); padding:20px; }
+    footer { background:#111; color:#fff; text-align:center; padding:20px; }
+    .btn { display:inline-block; padding:12px 20px; background:#198754; color:#fff; text-decoration:none; border-radius:8px; margin-top:10px; }
+  </style>
+</head>
+<body><header>
+  <h1>युवा प्रगतिशील सेना</h1>
+  <p>युवक सशक्त – भारत सक्षम</p>
+  <p>स्थापना: 16 जानेवारी 2026</p>
+</header><nav>
+  <a href="#about">आमच्याबद्दल</a>
+  <a href="#ideology">विचारधारा</a>
+  <a href="#leadership">नेतृत्व</a>
+  <a href="#join">सदस्य व्हा</a>
+  <a href="#contact">संपर्क</a>
+</nav><section id="about">
+  <h2>आमच्याबद्दल</h2>
+  <p>युवा प्रगतिशील सेना हा युवा-केंद्रित, विकासाभिमुख व संविधाननिष्ठ राजकीय पक्ष आहे. युवकांना संघटित करून सामाजिक, शैक्षणिक व राजकीय परिवर्तन घडवणे हे आमचे ध्येय आहे.</p>
+</section><section id="ideology">
+  <h2>पक्ष विचारधारा</h2>
+  <div class="cards">
+    <div class="card"><h3>युवक सक्षमीकरण</h3><p>युवकांना नेतृत्व, कौशल्य व रोजगाराच्या संधी.</p></div>
+    <div class="card"><h3>शिक्षण</h3><p>गुणवत्तापूर्ण, परवडणारे व डिजिटल शिक्षण.</p></div>
+    <div class="card"><h3>रोजगार</h3><p>स्थानिक रोजगार व उद्योजकतेला प्रोत्साहन.</p></div>
+    <div class="card"><h3>सामाजिक न्याय</h3><p>सर्वांसाठी समान हक्क व न्याय.</p></div>
+  </div>
+</section><section id="leadership">
+  <h2>नेतृत्व</h2>
+  <p><strong>अध्यक्ष:</strong> रोहित गीते</p>
+  <p>युवा नेतृत्वाच्या बळावर स्वच्छ व पारदर्शक राजकारणासाठी कटिबद्ध.</p>
+</section><section id="join">
+  <h2>सदस्य व्हा</h2>
+  <p>आपणही या परिवर्तनाचा भाग बना. युवकांच्या नेतृत्वाखाली प्रगत भारत घडवूया.</p>
+  <a class="btn" href="#contact">आजच सहभागी व्हा</a>
+</section><section id="contact">
+  <h2>संपर्क</h2>
+  <p>Email: yps.official@email.com</p>
+  <p>Instagram: @yuva_pragatisheel_sena</p>
+  <p>स्थान: महाराष्ट्र, भारत</p>
+</section><footer>
+  <p>© 2026 युवा प्रगतिशील सेना | जय संविधान | जय भारत</p>
+</footer></body>
+</html>
